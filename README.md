@@ -21,3 +21,6 @@ The dataset further captures behavioral and temporal elements like whether the p
 One of the most valuable elements is the NoShow outcome column, which reveals whether each patient attended (No) or missed (Yes) their appointment. This makes the dataset highly suitable for predictive modeling, enabling the development of machine learning classification models that estimate the probability of attendance based on historical patterns.
 
 Overall, this dataset is well-suited for exploratory data analysis, business analytics, healthcare operational studies, and statistical modeling. It offers rich opportunities for visualizations, correlation studies, medical behavior research, and model-based insights. Researchers and data analysts can leverage this dataset to identify risk factors, reduce clinical inefficiencies, improve patient follow-up strategies, and enhance the quality of healthcare delivery through data-driven prediction and intervention.
+
+<img width="813" height="552" alt="image" src="https://github.com/user-attachments/assets/bd4e23b8-7453-4f0e-b945-525735a80650" />
+
